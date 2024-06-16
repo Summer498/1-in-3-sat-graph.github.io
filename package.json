@@ -1,0 +1,12 @@
+{
+  "name": "1-in-3-sat",
+  "version": "1.0.0",
+  "description": "Visualization of 1-in-3 SAT and its variatnts",
+  "main": "index.js",
+  "repository": "https://github.com/Summer498/1-in-3-sat-graph.github.io",
+  "author": "Summer498",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  }
+}
